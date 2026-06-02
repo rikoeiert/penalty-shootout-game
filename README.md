@@ -42,7 +42,7 @@ Level 3: Computer has a 65% chance to make a smarter choice.
 
 
 
-\## How to run
+## How to run
 
 
 
