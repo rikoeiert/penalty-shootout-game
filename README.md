@@ -6,7 +6,7 @@ This is a Python CLI game where the player plays a penalty shootout against the 
 
 
 
-\## Features
+## Features
 
 
 
