@@ -1,4 +1,4 @@
-\# Soccer Penalty Shootout
+# Soccer Penalty Shootout
 
 
 
@@ -26,7 +26,7 @@ This is a Python CLI game where the player plays a penalty shootout against the 
 
 
 
-\## Difficulty levels
+## Difficulty levels
 
 
 
